@@ -1,0 +1,28 @@
+{
+  "name": "hoeveeluurnog",
+  "version": "1.0.0",
+  "description": "Hoeveel uur moet ik nog werken deze week?",
+  "main": "index.js",
+  "directories": {
+    "example": "examples",
+    "test": "test"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xtofl/hoeveeluurnog.git"
+  },
+  "keywords": [
+    "timelogging"
+  ],
+  "author": "xtofl",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xtofl/hoeveeluurnog/issues"
+  },
+  "homepage": "https://github.com/xtofl/hoeveeluurnog#readme"
+}
